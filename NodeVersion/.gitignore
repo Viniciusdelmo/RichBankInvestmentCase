@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+jspm_packages/
+.pnp.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Coverage and build directories
+coverage/
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
