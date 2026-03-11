@@ -4,7 +4,7 @@
     "private": true,
     "main": "dist/main.js",
     "prisma": {
-      "schema": "src/prisma/schema.prisma"
+      "schema": "./prisma/schema.prisma"
     },
     "scripts": {
       "build": "nest build",
